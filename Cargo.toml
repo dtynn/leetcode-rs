@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "p0001-two-sum",
+	"p0001-two-sum",
+	"p0002-add-two-numbers",
 ]
